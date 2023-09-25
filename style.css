@@ -20,7 +20,7 @@
     cursor: pointer;
     width: 50% 50% 50%;
     border-style: solid;
-    border-color: black;
+    border-color: rgb(252, 251, 251);
   }
 
 .custom-button:hover {
