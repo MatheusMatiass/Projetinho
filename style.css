@@ -22,11 +22,15 @@
     border-color: black;
   }
 
-  .custom-button:hover {
+.custom-button:hover {
     background-color: #09b3b9;
   }
 
-  .center-container{
-    text-align: center;
-    background-color: #000000;
-  }
+.center-container{
+  text-align: center;
+  background-color: #000000;
+}
+
+.cabecalho {
+  background-color:#000000;
+}
