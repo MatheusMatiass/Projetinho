@@ -14,11 +14,10 @@
     padding: 30px 30px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
     font-size: 20px;
     border-radius: 10px;
     cursor: pointer;
-    width: 50% 50% 50%;
+    width:0;
     border-color: rgb(252, 251, 251);
   }
 
